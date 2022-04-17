@@ -12,6 +12,16 @@ const firebaseConfig = {
   storageBucket: "strength-house-1abbf.appspot.com",
   messagingSenderId: "489437430699",
   appId: "1:489437430699:web:35d8ff92b56f5acf93c8ee"
+
+  
+  // ========================secure firebase =======================
+
+  // apiKey:process.env.REACT_APP_apiKey,
+  // authDomain:process.env.REACT_APP_authDomain,
+  // projectId:process.env.REACT_APP_projectId,
+  // storageBucket:process.env.REACT_APP_storageBucket,
+  // messagingSenderId:process.env.REACT_APP_messagingSenderId,
+  // appId:process.env.REACT_APP_appId,
 };
 
 // Initialize Firebase
