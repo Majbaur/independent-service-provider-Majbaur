@@ -7,7 +7,8 @@ const About = () => {
         <div className="about-me">
             <img src={majba} alt="" />
             <h2>Name: Md.Majbaur Rahman Khan</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio ut excepturi natus unde minus iure repudiandae accusamus accusantium fugit incidunt optio enim soluta esse eum quibusdam molestias, illum quod in ab, blanditiis porro sint voluptate? Praesentium rerum unde explicabo inventore ducimus, magnam distinctio aliquam in aspernatur. Dolorem error quo molestias?</p>
+            <p>My Goal :
+                A personal trainer will be able to tailor your workout plan to one that targets your problem areas and make sure you'll enjoy it, too. They'll work with you to ensure you have perfect form throughout (also preventing injury) and pick up on any bad exercise habits you've formed in the past. I am well trained and many courses I finished in my past ages. now I am working in many Gym halls with well-trained people to make them fit and fine. I worked in many national and international Gym companies as a Gym Instructor.</p>
         </div>
     );
 };

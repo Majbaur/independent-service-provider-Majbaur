@@ -3,43 +3,42 @@
         "id": 1,
         "name": "AEROBICS/ZUMBA",
         "price": "3000/Month",
-        "per-session":"300",
         "description": "Energize your mornings and come train and workout with our personal trainers at Mutants Gym. Join our Aerobics Yoga and Zumba lessons and have fun while exercising.",
         "img": "./services/1.jpg"
     },
     {
         "id": 2,
         "name": "ENDURANCE TRAINING",
-        "price": "100",
+        "price": "2000/Month",
         "description": "Improve your stamina and workout with your friends while listening to trendy tune at one of the hottest gyms in Patna, Mutants.",
         "img": "./services/2.jpg"
     },
     {
         "id": 3,
         "name": "STRENGTH TRAINING",
-        "price": "150",
+        "price": "1500/Month",
         "description": "Build your strength and get those extra few pounds in before the swimsuit season. Come train under expert personal trainers only at Mutants Gym.",
         "img": "./services/3.jpg"
     },
     {
         "id": 4,
         "name": "WEIGHT LOSS",
-        "price": "180",
+        "price": "1800/Month",
         "description": "Lose extra weight and get in shape with expert personal trainers and top notch fitness equipments only at Mutants Gym, the best gym in Patna.",
         "img": "./services/4.jpg"
     },
     {
         "id": 5,
         "name": "Fast Track",
-        "price": "100",
+        "price": "1000/Month",
         "description": "If you strive for real results and want to receive the guidance you need to set yourself up for success, then this is the package for you. you'll be working with me directly and chacking in twice a week. We will first track your progress and make necessary changes to ensure you are committed to lifelong habits. Including full access to my Gym.",
         "img": "./services/5.jpg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "name": "Bodybuilding",
+        "price": "3000/Month",
+        "description": "If you want an awesome body structure to impress someone or to look dashing good, then this package is for you. in this package you get full access to my gym and are able to train with direct to me. and I also give you a full diet list for you.",
         "img": "./services/6.jpg"
     }
 ]
