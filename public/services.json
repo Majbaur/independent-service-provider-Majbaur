@@ -1,30 +1,31 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "AEROBICS/ZUMBA",
+        "price": "3000/Month",
+        "per-session":"300",
+        "description": "Energize your mornings and come train and workout with our personal trainers at Mutants Gym. Join our Aerobics Yoga and Zumba lessons and have fun while exercising.",
         "img": "https://i.ibb.co/dGDkr4v/1.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
+        "name": "ENDURANCE TRAINING",
         "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Improve your stamina and workout with your friends while listening to trendy tune at one of the hottest gyms in Patna, Mutants.",
         "img": "https://i.ibb.co/tY8dmnP/2.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
+        "name": "STRENGTH TRAINING",
         "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Build your strength and get those extra few pounds in before the swimsuit season. Come train under expert personal trainers only at Mutants Gym.",
         "img": "https://i.ibb.co/Yh04YVw/3.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
+        "name": "WEIGHT LOSS",
         "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Lose extra weight and get in shape with expert personal trainers and top notch fitness equipments only at Mutants Gym, the best gym in Patna.",
         "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
     },
     {
