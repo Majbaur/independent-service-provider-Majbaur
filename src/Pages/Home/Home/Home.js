@@ -1,5 +1,5 @@
 import React from 'react';
-import Achivement from '../../Achivement/Achivement.js';
+import Achievement from '../../Achievement/Achievement.js';
 import Banner from '../Banner/Banner';
 import Services from '../Services/Services';
 
@@ -8,7 +8,7 @@ const Home = () => {
         <>
             <Banner></Banner>
             <Services></Services>
-            <Achivement></Achivement>
+            <Achievement></Achievement>
         </>
     );
 };

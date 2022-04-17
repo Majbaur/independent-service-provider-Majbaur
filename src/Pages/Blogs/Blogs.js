@@ -23,16 +23,36 @@ const Blogs = () => {
 
             {/* ======== Que:2*/}
 
-            <h2>Que:2 the difference of authorisation and authentication?</h2>
-            <h4>Ans: A semantic element clearly describes its meaning to both the browser and the developer.
-                Examples of non-semantic elements: "div" and "span" - Tells nothing about its content.
-                Examples of semantic elements: "form", "table", and "article" - Clearly defines its context.</h4>
+            <h2>Que:2 Why are you using firebase?</h2>
+            <h4>Ans: Data is persisted locally, and even while offline, real-time events continue to fire, giving the end-user a responsive experience. Firebase is Realtime Database that lets you build rich, collaborative applications by allowing secure access to the database directly from client-side code.
+                3rd-Party User Authentication. like: STYTCH, Ory, Supabase, Okta, PingIdentity, Authress, OneLogin.</h4>
 
             {/* ======== Que:3*/}
 
-            <h2>Que:3 Difference between inline-block and inline-block elements?</h2>
-            <h4>Ans: inline The element doesn't start on a new line and only occupy just the width it requires. You can't set the width or height.
-                inline-block It's formatted just like the inline element, where it doesn't start on a new line. BUT, you can set width and height values.</h4>
+            <h2>Que:3 What other services does firebase provide other than authentication?</h2>
+            <h4>Ans: There are many services which Firebase provides, Most useful of them are:
+                <br />
+                1. Cloud Firestore
+                <br />
+                2. Cloud Functions
+                <br />
+                3. Authentication
+                <br />
+                4. Hosting
+                <br />
+                5. Cloud Storage
+                <br />
+                6. Google Analytics
+                <br />
+                7. Predictions
+                <br />
+                8. Cloud Messaging
+                <br />
+                9. Dynamic Links
+                <br />
+                10. Remote Config
+                <br />
+            </h4>
         </div>
     );
 };
