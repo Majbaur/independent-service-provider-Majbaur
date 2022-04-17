@@ -9,5 +9,4 @@
 * We are adding about me where we add about ourselves.
 * In this webpage we added a location to find him easily.
 
-
-* Here I used, React-bootstrap, React-Router, ReactToastify, react-firebase-hooks, React, FireBase.
+### Here I used, React-bootstrap, React-Router, ReactToastify, react-firebase-hooks, React, FireBase.
