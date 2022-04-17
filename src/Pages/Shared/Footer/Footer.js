@@ -6,9 +6,9 @@ const Footer = () => {
     const year = today.getFullYear();
     return (
         <footer className='text-center mt-5'>
-       <h1 class="footer-title">Influencer products</h1>
-        <p class="footer-copyright">Copyright © 2020 influencer products</p>
-        <p class="footer-copyright">All rights reserved</p>
+       <h1 className="footer-title">Strength House</h1>
+        <p className="footer-copyright">Copyright © {year} strength house</p>
+        <p className="footer-copyright">All rights reserved</p>
             
             
     
